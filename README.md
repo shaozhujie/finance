@@ -48,6 +48,6 @@
 ![消息通知](src/assets/image/image7.png)
 ![账户](src/assets/image/image11.png)
 ![个人中心](src/assets/image/image12.png)
-![管理员后台](src/assets/image/image55.png)
+![后台](src/assets/image/image111.png)
 
 **有问题可以咨询企鹅Q1760272627** 
