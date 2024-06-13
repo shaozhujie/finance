@@ -1,0 +1,72 @@
+.asset {
+    width: 100%;
+    height: 100%;
+    font-family: '黑体';
+}
+.asset1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.asset2 {
+    width: 70%;
+}
+.asset3 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.asset4 {
+    width: 50%;
+    height: 100%;
+}
+.asset5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.asset6 {
+    margin-top: 5px;
+    font-size: 20px;
+}
+.asset7 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.asset8 {
+    width: 70%;
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.asset9 {
+    width: 48%;
+    height: 180px;
+    margin-top: 20px;
+    display: flex;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.asset10 {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 40%;
+    height: 100%;
+    background-color: #0088FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+.asset11 {
+    width: 60%;
+    height: 100%;
+}
+.asset11>div {
+    width: 100%;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-top: 15px;
+}

@@ -1,0 +1,36 @@
+.product {
+    width: 100%;
+    height: 100%;
+    font-family: '黑体';
+}
+.product1 {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.product2 {
+    width: 70%;
+}
+.product3 {
+    width: 100%;
+    height: 60px;
+    background-color: #0088FF;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+}
+.product4 {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.product5 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
