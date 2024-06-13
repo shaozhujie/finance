@@ -1,37 +1,46 @@
 # SpringBoot+Vue的金融投资管理平台
 
-#### 介绍
-基于SprinaBoot的金融投资管理系统所需功能，选择Java作为主要的编程语言，用于后端系统开发，MVSOL作为关系型教据库，用于存储系统的数据，前端选用Vue.js进行性能优化和拓展。
+**有问题可以咨询企鹅Q1760272627** 
 
-#### 软件架构
-软件架构说明
+### 功能：
+1、用户管理:
+用户注册、登录、身份验证和权限管理。
+用户信息管理 (个人资料、密码修改等)
+2、投资产品管理
+产品分类管理 (股票、债券、基金等)
+产品信息管理 (名称、代码、价格、涨跌幅等) 。
+产品购买、赎回等交易功能。
+3、资产管理
+账户管理(现金、股票、债券等)
+资产配置和重平衡。
+资产估值和盈亏统计。
+4、交易管理:
+下单、撤单、查询交易记录等功能。
+交易费用计算与管理。
+5、风险管理:
+风险评估和分析。
+风险警示与控制。
+6、报表与统计:
+账户资产报表
+投资组合收益报表交易记录统计分析等
+7、市场数据接口:
+与金融市场数据接口对接，获取实时行情、历史数据等信息
+8、消息推送与通知:
+对投资者进行交易提醒、账户变动通知等消息推送
+后端实现业务逻辑，前端负责页面展示
 
+### 系统截图：
+![登录](src/assets/image/image.png)
+![首页](src/assets/image/image1.png)
+![产品](src/assets/image/image2.png)
+![产品详情](src/assets/image/image3.png)
+![我的资产](src/assets/image/image4.png)
+![交易记录](src/assets/image/image5.png)
+![盈亏统计](src/assets/image/image23.png)
+![风险评估](src/assets/image/image6.png)
+![消息通知](src/assets/image/image7.png)
+![账户](src/assets/image/image11.png)
+![个人中心](src/assets/image/image12.png)
+![管理员后台](src/assets/image/image55.png)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+**有问题可以咨询企鹅Q1760272627** 
