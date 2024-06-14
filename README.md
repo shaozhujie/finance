@@ -36,6 +36,12 @@
 对投资者进行交易提醒、账户变动通知等消息推送
 后端实现业务逻辑，前端负责页面展示
 
+### 采用技术：
+SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
+
+### 工具：
+idea，vscode，navicat
+
 ### 系统截图：
 ![登录](src/assets/image/image.png)
 ![首页](src/assets/image/image1.png)
