@@ -1,6 +1,8 @@
 # SpringBoot+Vue的金融投资管理平台
 
-**有问题可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询企鹅Q1760272627** 
+
+**系统运行视频：** https://www.bilibili.com/video/BV1s4421Q73g/?vd_source=5f273f72fd3dc593e25c33cbccdad12e 
 
 ### 功能：
 1、用户管理:
@@ -56,4 +58,4 @@ idea，vscode，navicat
 ![个人中心](src/assets/image/image12.png)
 ![后台](src/assets/image/image111.png)
 
-**有问题可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询企鹅Q1760272627** 
