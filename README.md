@@ -45,17 +45,17 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 idea，vscode，navicat
 
 ### 系统截图：
-![登录](src/assets/image/image.png)
-![首页](src/assets/image/image1.png)
-![产品](src/assets/image/image2.png)
-![产品详情](src/assets/image/image3.png)
-![我的资产](src/assets/image/image4.png)
-![交易记录](src/assets/image/image5.png)
-![盈亏统计](src/assets/image/image23.png)
-![风险评估](src/assets/image/image6.png)
-![消息通知](src/assets/image/image7.png)
-![账户](src/assets/image/image11.png)
-![个人中心](src/assets/image/image12.png)
-![后台](src/assets/image/image111.png)
+![image](https://github.com/user-attachments/assets/c2ef0f1b-c8d4-41e8-ade8-0a96ad19a2bd)
+![image](https://github.com/user-attachments/assets/3a2929b5-bcbd-475d-a5e4-1adc609da2b7)
+![image](https://github.com/user-attachments/assets/e1b75fae-46c2-4602-a886-325c5bf687b6)
+![image](https://github.com/user-attachments/assets/c0aacd6c-4b42-4ddf-9baa-ea2716c86a17)
+![image](https://github.com/user-attachments/assets/d2b5c3ec-5741-4158-a0de-f9c0a50212ac)
+![image](https://github.com/user-attachments/assets/a6f729ee-d555-44a2-a382-9015386f04bd)
+![image](https://github.com/user-attachments/assets/da379e45-3492-46f2-a079-f410955bb9a8)
+![image](https://github.com/user-attachments/assets/add1b310-f8c0-4287-a228-9d77ca57615e)
+![image](https://github.com/user-attachments/assets/9f9030eb-4808-42a1-86e1-df3337ee082a)
+![image](https://github.com/user-attachments/assets/ae399c2a-cbea-48ad-bf96-0a65eef1c744)
+![image](https://github.com/user-attachments/assets/cc8be2b1-381f-438c-b9a1-ff6ace1f8c26)
+
 
 **有问题或获取源码可以咨询企鹅Q1760272627** 
