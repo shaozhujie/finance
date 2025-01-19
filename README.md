@@ -1,6 +1,6 @@
 # SpringBoot+Vue的金融投资管理平台
 
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
 
 **系统运行视频：** https://www.bilibili.com/video/BV1s4421Q73g/?vd_source=5f273f72fd3dc593e25c33cbccdad12e 
 
@@ -44,18 +44,4 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-### 系统截图：
-![image](https://github.com/user-attachments/assets/c2ef0f1b-c8d4-41e8-ade8-0a96ad19a2bd)
-![image](https://github.com/user-attachments/assets/3a2929b5-bcbd-475d-a5e4-1adc609da2b7)
-![image](https://github.com/user-attachments/assets/e1b75fae-46c2-4602-a886-325c5bf687b6)
-![image](https://github.com/user-attachments/assets/c0aacd6c-4b42-4ddf-9baa-ea2716c86a17)
-![image](https://github.com/user-attachments/assets/d2b5c3ec-5741-4158-a0de-f9c0a50212ac)
-![image](https://github.com/user-attachments/assets/a6f729ee-d555-44a2-a382-9015386f04bd)
-![image](https://github.com/user-attachments/assets/da379e45-3492-46f2-a079-f410955bb9a8)
-![image](https://github.com/user-attachments/assets/add1b310-f8c0-4287-a228-9d77ca57615e)
-![image](https://github.com/user-attachments/assets/9f9030eb-4808-42a1-86e1-df3337ee082a)
-![image](https://github.com/user-attachments/assets/ae399c2a-cbea-48ad-bf96-0a65eef1c744)
-![image](https://github.com/user-attachments/assets/cc8be2b1-381f-438c-b9a1-ff6ace1f8c26)
-
-
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
